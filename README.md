@@ -43,5 +43,5 @@ Chaque projet suit la même méthodologie : contexte métier → nettoyage & str
 
 ## 📫 Me contacter
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kossi-olivier-dassilenou-consultant-sap-fico-98b279193/)
+- 💼 https://www.linkedin.com/in/kossi-olivier-dassilenou-consultant-sap-fico-98b279193/
 - 📧 olivierdassilenou@gmail.com
